@@ -1,0 +1,37 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore the following files and directories created by Unity
+
+# Unity-specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop / Rider
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Aa]ssets/**/*.csproj
+[Aa]ssets/**/*.unityproj
+[Aa]ssets/**/*.sln
+[Aa]ssets/**/*.suo
+[Aa]ssets/**/*.tmp
+[Aa]ssets/**/*.user
+[Aa]ssets/**/*.userprefs
+[Aa]ssets/**/*.pidb
+[Aa]ssets/**/*.booproj
+[Aa]ssets/**/*.svd
+[Aa]ssets/**/*.pdb
+[Aa]ssets/**/*.mdb
+[Aa]ssets/**/*.opendb
+[Aa]ssets/**/*.VC.opendb
+[Aa]ssets/**/*.ide
+[Aa]ssets/**/*.sdf
+[Aa]ssets/**/*.tlog
+[Aa]ssets/**/*.vscode/
+[Aa]ssets/**/*.vs/
+[Aa]ssets/**/*.vsconfig
